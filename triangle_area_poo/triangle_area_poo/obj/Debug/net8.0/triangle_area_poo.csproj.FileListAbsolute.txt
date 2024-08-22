@@ -1,0 +1,15 @@
+C:\Users\Pedro\Desktop\Udemy\3 C#\projetos\OOP\triangle_area_poo\triangle_area_poo\bin\Debug\net8.0\triangle_area_poo.exe
+C:\Users\Pedro\Desktop\Udemy\3 C#\projetos\OOP\triangle_area_poo\triangle_area_poo\bin\Debug\net8.0\triangle_area_poo.deps.json
+C:\Users\Pedro\Desktop\Udemy\3 C#\projetos\OOP\triangle_area_poo\triangle_area_poo\bin\Debug\net8.0\triangle_area_poo.runtimeconfig.json
+C:\Users\Pedro\Desktop\Udemy\3 C#\projetos\OOP\triangle_area_poo\triangle_area_poo\bin\Debug\net8.0\triangle_area_poo.dll
+C:\Users\Pedro\Desktop\Udemy\3 C#\projetos\OOP\triangle_area_poo\triangle_area_poo\bin\Debug\net8.0\triangle_area_poo.pdb
+C:\Users\Pedro\Desktop\Udemy\3 C#\projetos\OOP\triangle_area_poo\triangle_area_poo\obj\Debug\net8.0\triangle_area_poo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\Udemy\3 C#\projetos\OOP\triangle_area_poo\triangle_area_poo\obj\Debug\net8.0\triangle_area_poo.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\Udemy\3 C#\projetos\OOP\triangle_area_poo\triangle_area_poo\obj\Debug\net8.0\triangle_area_poo.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\Udemy\3 C#\projetos\OOP\triangle_area_poo\triangle_area_poo\obj\Debug\net8.0\triangle_area_poo.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\Udemy\3 C#\projetos\OOP\triangle_area_poo\triangle_area_poo\obj\Debug\net8.0\triangle_area_poo.sourcelink.json
+C:\Users\Pedro\Desktop\Udemy\3 C#\projetos\OOP\triangle_area_poo\triangle_area_poo\obj\Debug\net8.0\triangle_area_poo.dll
+C:\Users\Pedro\Desktop\Udemy\3 C#\projetos\OOP\triangle_area_poo\triangle_area_poo\obj\Debug\net8.0\refint\triangle_area_poo.dll
+C:\Users\Pedro\Desktop\Udemy\3 C#\projetos\OOP\triangle_area_poo\triangle_area_poo\obj\Debug\net8.0\triangle_area_poo.pdb
+C:\Users\Pedro\Desktop\Udemy\3 C#\projetos\OOP\triangle_area_poo\triangle_area_poo\obj\Debug\net8.0\triangle_area_poo.genruntimeconfig.cache
+C:\Users\Pedro\Desktop\Udemy\3 C#\projetos\OOP\triangle_area_poo\triangle_area_poo\obj\Debug\net8.0\ref\triangle_area_poo.dll

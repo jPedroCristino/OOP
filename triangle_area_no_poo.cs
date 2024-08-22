@@ -2,7 +2,7 @@
 using System.Globalization;
 using System.Xml;
 
-namespace divisores
+namespace triangles
 {
     class Program
     {

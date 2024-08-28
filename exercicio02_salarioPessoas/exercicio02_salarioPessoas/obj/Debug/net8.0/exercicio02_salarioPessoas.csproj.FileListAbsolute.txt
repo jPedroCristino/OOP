@@ -1,0 +1,15 @@
+C:\Users\Pedro\Desktop\Udemy\3 C#\projetos\OOP\exercicio02_salarioPessoas\exercicio02_salarioPessoas\bin\Debug\net8.0\exercicio02_salarioPessoas.exe
+C:\Users\Pedro\Desktop\Udemy\3 C#\projetos\OOP\exercicio02_salarioPessoas\exercicio02_salarioPessoas\bin\Debug\net8.0\exercicio02_salarioPessoas.deps.json
+C:\Users\Pedro\Desktop\Udemy\3 C#\projetos\OOP\exercicio02_salarioPessoas\exercicio02_salarioPessoas\bin\Debug\net8.0\exercicio02_salarioPessoas.runtimeconfig.json
+C:\Users\Pedro\Desktop\Udemy\3 C#\projetos\OOP\exercicio02_salarioPessoas\exercicio02_salarioPessoas\bin\Debug\net8.0\exercicio02_salarioPessoas.dll
+C:\Users\Pedro\Desktop\Udemy\3 C#\projetos\OOP\exercicio02_salarioPessoas\exercicio02_salarioPessoas\bin\Debug\net8.0\exercicio02_salarioPessoas.pdb
+C:\Users\Pedro\Desktop\Udemy\3 C#\projetos\OOP\exercicio02_salarioPessoas\exercicio02_salarioPessoas\obj\Debug\net8.0\exercicio02_salarioPessoas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\Udemy\3 C#\projetos\OOP\exercicio02_salarioPessoas\exercicio02_salarioPessoas\obj\Debug\net8.0\exercicio02_salarioPessoas.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\Udemy\3 C#\projetos\OOP\exercicio02_salarioPessoas\exercicio02_salarioPessoas\obj\Debug\net8.0\exercicio02_salarioPessoas.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\Udemy\3 C#\projetos\OOP\exercicio02_salarioPessoas\exercicio02_salarioPessoas\obj\Debug\net8.0\exercicio02_salarioPessoas.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\Udemy\3 C#\projetos\OOP\exercicio02_salarioPessoas\exercicio02_salarioPessoas\obj\Debug\net8.0\exercicio02_salarioPessoas.sourcelink.json
+C:\Users\Pedro\Desktop\Udemy\3 C#\projetos\OOP\exercicio02_salarioPessoas\exercicio02_salarioPessoas\obj\Debug\net8.0\exercicio02_salarioPessoas.dll
+C:\Users\Pedro\Desktop\Udemy\3 C#\projetos\OOP\exercicio02_salarioPessoas\exercicio02_salarioPessoas\obj\Debug\net8.0\refint\exercicio02_salarioPessoas.dll
+C:\Users\Pedro\Desktop\Udemy\3 C#\projetos\OOP\exercicio02_salarioPessoas\exercicio02_salarioPessoas\obj\Debug\net8.0\exercicio02_salarioPessoas.pdb
+C:\Users\Pedro\Desktop\Udemy\3 C#\projetos\OOP\exercicio02_salarioPessoas\exercicio02_salarioPessoas\obj\Debug\net8.0\exercicio02_salarioPessoas.genruntimeconfig.cache
+C:\Users\Pedro\Desktop\Udemy\3 C#\projetos\OOP\exercicio02_salarioPessoas\exercicio02_salarioPessoas\obj\Debug\net8.0\ref\exercicio02_salarioPessoas.dll

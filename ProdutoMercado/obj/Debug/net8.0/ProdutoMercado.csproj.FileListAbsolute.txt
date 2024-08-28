@@ -1,0 +1,15 @@
+C:\Users\Pedro\Desktop\Udemy\3 C#\projetos\OOP\ProdutoMercado\bin\Debug\net8.0\ProdutoMercado.exe
+C:\Users\Pedro\Desktop\Udemy\3 C#\projetos\OOP\ProdutoMercado\bin\Debug\net8.0\ProdutoMercado.deps.json
+C:\Users\Pedro\Desktop\Udemy\3 C#\projetos\OOP\ProdutoMercado\bin\Debug\net8.0\ProdutoMercado.runtimeconfig.json
+C:\Users\Pedro\Desktop\Udemy\3 C#\projetos\OOP\ProdutoMercado\bin\Debug\net8.0\ProdutoMercado.dll
+C:\Users\Pedro\Desktop\Udemy\3 C#\projetos\OOP\ProdutoMercado\bin\Debug\net8.0\ProdutoMercado.pdb
+C:\Users\Pedro\Desktop\Udemy\3 C#\projetos\OOP\ProdutoMercado\obj\Debug\net8.0\ProdutoMercado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\Udemy\3 C#\projetos\OOP\ProdutoMercado\obj\Debug\net8.0\ProdutoMercado.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\Udemy\3 C#\projetos\OOP\ProdutoMercado\obj\Debug\net8.0\ProdutoMercado.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\Udemy\3 C#\projetos\OOP\ProdutoMercado\obj\Debug\net8.0\ProdutoMercado.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\Udemy\3 C#\projetos\OOP\ProdutoMercado\obj\Debug\net8.0\ProdutoMercado.sourcelink.json
+C:\Users\Pedro\Desktop\Udemy\3 C#\projetos\OOP\ProdutoMercado\obj\Debug\net8.0\ProdutoMercado.dll
+C:\Users\Pedro\Desktop\Udemy\3 C#\projetos\OOP\ProdutoMercado\obj\Debug\net8.0\refint\ProdutoMercado.dll
+C:\Users\Pedro\Desktop\Udemy\3 C#\projetos\OOP\ProdutoMercado\obj\Debug\net8.0\ProdutoMercado.pdb
+C:\Users\Pedro\Desktop\Udemy\3 C#\projetos\OOP\ProdutoMercado\obj\Debug\net8.0\ProdutoMercado.genruntimeconfig.cache
+C:\Users\Pedro\Desktop\Udemy\3 C#\projetos\OOP\ProdutoMercado\obj\Debug\net8.0\ref\ProdutoMercado.dll
